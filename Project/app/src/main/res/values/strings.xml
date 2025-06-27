@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Workout RPG</string>
+    <string name="welcome_text">Hai, Pejuang Workout</string>
+    <string name="total_level">Total Level: 3</string>
+    <string name="stat_label">Stat Tubuh:</string>
+    <string name="bicep">Bicep</string>
+    <string name="chest">Chest</string>
+    <string name="core">Core</string>
+    <string name="leg">Leg</string>
+    <string name="start_workout">Mulai Workout</string>
+    <string name="total_level_text">Total Level: %1$d</string>
+</resources>
